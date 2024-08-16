@@ -17,7 +17,7 @@ public class Idea {
             System.out.println("oi larissa :)");
         } else if (nome.equalsIgnoreCase("savio")) {
             System.out.println("nao mancho, é serio. por que que tu nao se joga de uma ponte?");
-        } else if (nome.equalsIgnoreCase("daniel") || nome.equalsIgnoreCase("max")) {
+        } else if (nome.equalsIgnoreCase("tyler") || nome.equalsIgnoreCase("the creator")) {
             System.out.println("Eu sinto sua falta todos os dias. Espero que você esteja bem.");
         }
 
