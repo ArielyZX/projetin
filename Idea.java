@@ -10,7 +10,7 @@ public class Idea {
         String nome = read.nextLine();
 
         if (nome.equalsIgnoreCase("bryan")) {
-            System.out.println("vai se fuder seu lixeira// desculpa bryan");
+            System.out.println("vai se ***** seu lixeira// desculpa bryan");
         } else if (nome.equalsIgnoreCase("bel")) {
             System.out.println("oi coco");
         } else if (nome.equalsIgnoreCase("larissa")) {
